@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Coder from India,A program is never less than 90% complete and never more than 95% complete.99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code …</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1133&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1133" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya1133" alt="aditya1133" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya1133" alt="aditya1133" /></a> </p> -->
 
 - 🔭 I’m currently working on **100 Day's of Java**
 
